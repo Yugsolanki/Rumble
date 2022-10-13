@@ -1,0 +1,20 @@
+# .secret
+# .infuraid
+# config.js
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+node_modules
+
+#Hardhat files
+cache
+artifacts
